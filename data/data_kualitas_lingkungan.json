@@ -1,0 +1,1114 @@
+{
+  "type": "FeatureCollection",
+  "name": "kualitas_lingkungan_permukiman",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.471107987203,
+              0.535865212907504
+            ],
+            [
+              101.471241739174,
+              0.535695490610717
+            ],
+            [
+              101.469811256903,
+              0.535531312220721
+            ],
+            [
+              101.469810637649,
+              0.535671585744206
+            ],
+            [
+              101.471072058112,
+              0.535820111619852
+            ],
+            [
+              101.471072058112,
+              0.535820111619852
+            ],
+            [
+              101.471107987203,
+              0.535865212907504
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "jenis": "Blok",
+        "nama": "Blok B",
+        "blok": "Blok B",
+        "kondisi": null,
+        "skor": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.470676088719,
+              0.535820494361722
+            ],
+            [
+              101.470291831683,
+              0.535771402231876
+            ],
+            [
+              101.470456101996,
+              0.536292129133509
+            ],
+            [
+              101.470774180985,
+              0.536192166677361
+            ],
+            [
+              101.470676325946,
+              0.535825456647653
+            ],
+            [
+              101.470676325946,
+              0.535825456647653
+            ],
+            [
+              101.470676088719,
+              0.535820494361722
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "jenis": "Blok",
+        "nama": "Blok G",
+        "blok": "Blok G",
+        "kondisi": null,
+        "skor": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.47023868509,
+              0.535776192481935
+            ],
+            [
+              101.469845490315,
+              0.535726556858461
+            ],
+            [
+              101.470069588596,
+              0.536394650193436
+            ],
+            [
+              101.470403540097,
+              0.536286718899453
+            ],
+            [
+              101.470248490097,
+              0.53578129725851
+            ],
+            [
+              101.47023868509,
+              0.535776192481935
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "jenis": "Blok",
+        "nama": "Blok F",
+        "blok": "Blok F",
+        "kondisi": null,
+        "skor": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.470354218027,
+              0.536975659773019
+            ],
+            [
+              101.470432139085,
+              0.537232878983882
+            ],
+            [
+              101.4715905255,
+              0.536838004182158
+            ],
+            [
+              101.471503938746,
+              0.536605046990141
+            ],
+            [
+              101.470372330378,
+              0.536983063426503
+            ],
+            [
+              101.470359509587,
+              0.536981137946714
+            ],
+            [
+              101.470354218027,
+              0.536975659773019
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "jenis": "Blok",
+        "nama": "Cluster royal B",
+        "blok": "Cluster royal B",
+        "kondisi": null,
+        "skor": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.471156228898,
+              0.537301348278594
+            ],
+            [
+              101.470864562019,
+              0.537388571150099
+            ],
+            [
+              101.471071825772,
+              0.538065543895346
+            ],
+            [
+              101.471376210436,
+              0.537991959170346
+            ],
+            [
+              101.471160285061,
+              0.537302516107334
+            ],
+            [
+              101.471156228898,
+              0.537301348278594
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "jenis": "Blok",
+        "nama": "Blok H",
+        "blok": "Blok H",
+        "kondisi": null,
+        "skor": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.46834953000007,
+            0.5367087510000488
+          ],
+          [
+            101.46858636000007,
+            0.5374628350000421
+          ],
+          [
+            101.46993047500007,
+            0.537036975000035
+          ],
+          [
+            101.46992839700005,
+            0.5370348970000691
+          ]
+        ]
+      },
+      "properties": {
+        "jenis": "Jalan",
+        "nama": "Jalan 1",
+        "blok": null,
+        "kondisi": "Baik",
+        "skor": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.47003434700008,
+            0.53698711800007
+          ],
+          [
+            101.47011329100008,
+            0.5368666310000663
+          ],
+          [
+            101.47001980500005,
+            0.5365030920000322
+          ],
+          [
+            101.47000941800007,
+            0.5364532350000673
+          ],
+          [
+            101.47087364000004,
+            0.5361977190000289
+          ],
+          [
+            101.47073652800003,
+            0.5357988650000607
+          ],
+          [
+            101.46990762200005,
+            0.535690842000065
+          ],
+          [
+            101.46970195400007,
+            0.535761472000047
+          ],
+          [
+            101.46989308000008,
+            0.5364470030000348
+          ],
+          [
+            101.46996371400007,
+            0.5364656990000753
+          ]
+        ]
+      },
+      "properties": {
+        "jenis": "Jalan",
+        "nama": "Jalan 2",
+        "blok": null,
+        "kondisi": "Baik",
+        "skor": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.47032103600009,
+            0.5369455710000466
+          ],
+          [
+            101.47154465800008,
+            0.5365591810000296
+          ],
+          [
+            101.47164853100008,
+            0.5364740090000737
+          ],
+          [
+            101.47209726200003,
+            0.5363514440000472
+          ],
+          [
+            101.47213257800007,
+            0.5363909140000374
+          ],
+          [
+            101.47213673300007,
+            0.5364698540000745
+          ],
+          [
+            101.47166515100008,
+            0.5366298110000685
+          ],
+          [
+            101.47153427100005,
+            0.5366028050000295
+          ],
+          [
+            101.47056202100003,
+            0.5369102560000556
+          ]
+        ]
+      },
+      "properties": {
+        "jenis": "Jalan",
+        "nama": "Jalan 3",
+        "blok": null,
+        "kondisi": "Baik",
+        "skor": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.47023352600007,
+            0.5371998990000293
+          ],
+          [
+            101.47027280100008,
+            0.5373657710000543
+          ],
+          [
+            101.47032263900007,
+            0.5375456450000229
+          ],
+          [
+            101.47162000600008,
+            0.5371028000000706
+          ],
+          [
+            101.47163384700008,
+            0.5371443220000742
+          ],
+          [
+            101.47036897900006,
+            0.5375670320000268
+          ]
+        ]
+      },
+      "properties": {
+        "jenis": "Jalan",
+        "nama": "Jalan 4",
+        "blok": null,
+        "kondisi": "Baik",
+        "skor": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.47023709000007,
+            0.5375527740000621
+          ],
+          [
+            101.46933169400006,
+            0.53782723300003
+          ],
+          [
+            101.46935664600005,
+            0.5378593120000232
+          ],
+          [
+            101.47023352600007,
+            0.5375919830000271
+          ]
+        ]
+      },
+      "properties": {
+        "jenis": "Jalan",
+        "nama": "Jalan 5",
+        "blok": null,
+        "kondisi": "Baik",
+        "skor": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470624598917,
+          0.536281991151784
+        ]
+      },
+      "properties": {
+        "jenis": "Drainase",
+        "nama": "Drainase 1",
+        "blok": "Blok G",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Buruk",
+        "skor": 0,
+        "elevasi_m": 10.19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470778546893,
+          0.536187494890636
+        ]
+      },
+      "properties": {
+        "jenis": "Drainase",
+        "nama": "Drainase 2",
+        "blok": "Blok G",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 9.56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470656865102,
+          0.536834387404542
+        ]
+      },
+      "properties": {
+        "jenis": "Drainase",
+        "nama": "Drainase 3",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Buruk",
+        "skor": 0,
+        "elevasi_m": 7.04
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470786570088,
+          0.536803950733222
+        ]
+      },
+      "properties": {
+        "jenis": "Drainase",
+        "nama": "Drainase 4",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 7.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.471050917352,
+          0.536717813547925
+        ]
+      },
+      "properties": {
+        "jenis": "Drainase",
+        "nama": "Drainase 5",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 7.63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.471169432422,
+          0.536678859064333
+        ]
+      },
+      "properties": {
+        "jenis": "Drainase",
+        "nama": "Drainase 6",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 7.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.472016954954,
+          0.536324766991893
+        ]
+      },
+      "properties": {
+        "jenis": "Drainase",
+        "nama": "Drainase 7",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Buruk",
+        "skor": 0,
+        "elevasi_m": 13.54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470261581703,
+          0.537403343529933
+        ]
+      },
+      "properties": {
+        "jenis": "Drainase",
+        "nama": "Drainase 8",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Buruk",
+        "skor": 0,
+        "elevasi_m": 4.94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.47038353897,
+          0.537485883109934
+        ]
+      },
+      "properties": {
+        "jenis": "Drainase",
+        "nama": "Drainase 9",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Buruk",
+        "skor": 0,
+        "elevasi_m": 4.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470576566976,
+          0.537457776542896
+        ]
+      },
+      "properties": {
+        "jenis": "Drainase",
+        "nama": "Drainase 10",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Buruk",
+        "skor": 0,
+        "elevasi_m": 3.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470768910001,
+          0.537393437481494
+        ]
+      },
+      "properties": {
+        "jenis": "Drainase",
+        "nama": "Drainase 11",
+        "blok": "Blok H",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Buruk",
+        "skor": 0,
+        "elevasi_m": 3.44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470095514844,
+          0.536581638246333
+        ]
+      },
+      "properties": {
+        "jenis": "Drainase",
+        "nama": "Drainase 12",
+        "blok": "Blok F",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Buruk",
+        "skor": 0,
+        "elevasi_m": 8.11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470083306002,
+          0.536457395194774
+        ]
+      },
+      "properties": {
+        "jenis": "Drainase",
+        "nama": "Drainase 13",
+        "blok": "Blok F",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 8.23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470135775655,
+          0.536431396942857
+        ]
+      },
+      "properties": {
+        "jenis": "Drainase",
+        "nama": "Drainase 14",
+        "blok": "Blok F",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 8.41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.47068484203,
+          0.53621295523866
+        ]
+      },
+      "properties": {
+        "jenis": "Drainase",
+        "nama": "Drainase 15",
+        "blok": "Blok G",
+        "lokasi_blok": "di dalam blok",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 10.04
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470058227255,
+          0.536843391325896
+        ]
+      },
+      "properties": {
+        "jenis": "Pohon",
+        "nama": "Pohon 1",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": null,
+        "skor": null,
+        "elevasi_m": 6.09
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.469965166009,
+          0.536414678663996
+        ]
+      },
+      "properties": {
+        "jenis": "Pohon",
+        "nama": "Pohon 2",
+        "blok": "Blok F",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": null,
+        "skor": null,
+        "elevasi_m": 8.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470754726492,
+          0.535886405205297
+        ]
+      },
+      "properties": {
+        "jenis": "Pohon",
+        "nama": "Pohon 3",
+        "blok": "Blok G",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": null,
+        "skor": null,
+        "elevasi_m": 9.11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470626915668,
+          0.53576678166189
+        ]
+      },
+      "properties": {
+        "jenis": "Pohon",
+        "nama": "Pohon 4",
+        "blok": "Blok B",
+        "lokasi_blok": "di dalam blok",
+        "kondisi": null,
+        "skor": null,
+        "elevasi_m": 9.12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470364141577,
+          0.536889328236265
+        ]
+      },
+      "properties": {
+        "jenis": "Pohon",
+        "nama": "Pohon 5",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": null,
+        "skor": null,
+        "elevasi_m": 5.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470795955297,
+          0.536788181049336
+        ]
+      },
+      "properties": {
+        "jenis": "Pohon",
+        "nama": "Pohon 6",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": null,
+        "skor": null,
+        "elevasi_m": 7.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.471557947937,
+          0.536556252219348
+        ]
+      },
+      "properties": {
+        "jenis": "Pohon",
+        "nama": "Pohon 7",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": null,
+        "skor": null,
+        "elevasi_m": 9.59
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470316377266,
+          0.537468262962389
+        ]
+      },
+      "properties": {
+        "jenis": "Pohon",
+        "nama": "Pohon 8",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": null,
+        "skor": null,
+        "elevasi_m": 4.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470648164739,
+          0.537491356842226
+        ]
+      },
+      "properties": {
+        "jenis": "Pohon",
+        "nama": "Pohon 9",
+        "blok": "Blok H",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": null,
+        "skor": null,
+        "elevasi_m": 3.66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470470024937,
+          0.536270640816988
+        ]
+      },
+      "properties": {
+        "jenis": "Pohon",
+        "nama": "Pohon 10",
+        "blok": "Blok G",
+        "lokasi_blok": "di dalam blok",
+        "kondisi": null,
+        "skor": null,
+        "elevasi_m": 9.99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.469938714508,
+          0.537088401440431
+        ]
+      },
+      "properties": {
+        "jenis": "Tempat masuk",
+        "nama": "Tempat masuk 1",
+        "blok": null,
+        "lokasi_blok": null,
+        "kondisi": null,
+        "skor": null,
+        "elevasi_m": 4.38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470194572061,
+          0.536425994880689
+        ]
+      },
+      "properties": {
+        "jenis": "Tong sampah",
+        "nama": "Tong sampah 1",
+        "blok": "Blok F",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 8.61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470666868745,
+          0.535912317931819
+        ]
+      },
+      "properties": {
+        "jenis": "Tong sampah",
+        "nama": "Tong sampah 2",
+        "blok": "Blok G",
+        "lokasi_blok": "di dalam blok",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 9.34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.469748453614,
+          0.536297776725466
+        ]
+      },
+      "properties": {
+        "jenis": "Tong sampah",
+        "nama": "Tong sampah 3",
+        "blok": "Blok F",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 8.58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470629491452,
+          0.536813008366079
+        ]
+      },
+      "properties": {
+        "jenis": "Tong sampah",
+        "nama": "Tong sampah 4",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 7.29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.471408481914,
+          0.536587838297648
+        ]
+      },
+      "properties": {
+        "jenis": "Tong sampah",
+        "nama": "Tong sampah 5",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 9.14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.471257708636,
+          0.536670972676831
+        ]
+      },
+      "properties": {
+        "jenis": "Tong sampah",
+        "nama": "Tong sampah 6",
+        "blok": "Cluster royal B",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 7.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.47066510344,
+          0.537406011879425
+        ]
+      },
+      "properties": {
+        "jenis": "Tong sampah",
+        "nama": "Tong sampah 7",
+        "blok": "Blok H",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 3.53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470328705244,
+          0.536380413880229
+        ]
+      },
+      "properties": {
+        "jenis": "Tong sampah",
+        "nama": "Tong sampah 8",
+        "blok": "Blok F",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 9.19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470595598221,
+          0.536291689190687
+        ]
+      },
+      "properties": {
+        "jenis": "Tong sampah",
+        "nama": "Tong sampah 9",
+        "blok": "Blok G",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Baik",
+        "skor": 1,
+        "elevasi_m": 10.25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.470732822492,
+          0.537426040250395
+        ]
+      },
+      "properties": {
+        "jenis": "Tong sampah",
+        "nama": "Tong sampah 10",
+        "blok": "Blok H",
+        "lokasi_blok": "di luar blok (terdekat)",
+        "kondisi": "Buruk",
+        "skor": 0,
+        "elevasi_m": 3.44
+      }
+    }
+  ]
+}
